@@ -1,2 +1,6 @@
 another server file
+<<<<<<< HEAD
 Adding new line to the file
+=======
+change to local files
+>>>>>>> da7f66b... new locALchanege
