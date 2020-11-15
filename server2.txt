@@ -3,13 +3,12 @@ another server file
 Adding new line to the file
 =======
 change to local files
+>>>>>>> da7f66b... new locALchanege
 
 ===========updaedd form loal
 Server change again 
 
+-------
+tesign all are there
 
 
-
---show diffrence
-add new line 
-this is the best place to hide-->> INDIA
